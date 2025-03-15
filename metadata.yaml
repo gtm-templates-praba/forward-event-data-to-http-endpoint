@@ -2,5 +2,5 @@ homepage: 'https://codechilli.lk'
 documentation: 'https://github.com/gtm-templates-praba/forward-event-data-to-http-endpoint/blob/main/README.md'
 versions:
   # Latest version
-  - sha:
+  - sha: e4b5ed15b8c25c31e7694fc29bca613cec7393f2
     changeNotes: Initial release.
